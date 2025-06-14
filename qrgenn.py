@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-QR Code Generator CLI Application
+QR Code  Generator CLI Application
 A command-line tool to generate QR codes from text input with customization options.
 Compatible with standard qrcode library.
 """
