@@ -1,0 +1,1 @@
+#Qr generator using python
